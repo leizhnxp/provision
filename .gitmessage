@@ -1,0 +1,19 @@
+# 格式:
+# <gitmoji> <type>(<scope>)<!>: <subject>
+#
+# 示例:
+# ✨ feat(user): 增加幂等的超级用户初始化流程
+# 🐛 fix(pam): 避免重复插入 pam_ssh_agent_auth 配置
+# 🔧 chore(policy): 更新提交规范说明
+#
+# 类型:
+# feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert
+#
+# 说明:
+# - subject 使用祈使句，简洁，不要句号结尾
+# - 破坏性变更使用 ! 并添加 BREAKING CHANGE:
+
+
+
+Refs:
+Closes:
